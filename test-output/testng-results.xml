@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name=" Sanity Suite" duration-ms="26625" started-at="2023-05-16T11:42:47 IST" finished-at="2023-05-16T11:43:14 IST">
+    <groups>
+    </groups>
+    <test name="Google Test" duration-ms="15947" started-at="2023-05-16T11:42:47 IST" finished-at="2023-05-16T11:43:03 IST">
+      <class name="a1_googleTest.A1_GoogleTest">
+        <test-method status="PASS" signature="validateGoogle()[pri:0, instance:a1_googleTest.A1_GoogleTest@69b0fd6f]" name="validateGoogle" duration-ms="15871" started-at="2023-05-16T11:42:47 IST" finished-at="2023-05-16T11:43:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateGoogle -->
+      </class> <!-- a1_googleTest.A1_GoogleTest -->
+    </test> <!-- Google Test -->
+    <test name=" Bing Test" duration-ms="10627" started-at="2023-05-16T11:43:03 IST" finished-at="2023-05-16T11:43:14 IST">
+      <class name="a2_bingTest.A2_BingTest">
+        <test-method status="PASS" signature="validateBing()[pri:0, instance:a2_bingTest.A2_BingTest@77846d2c]" name="validateBing" duration-ms="10605" started-at="2023-05-16T11:43:03 IST" finished-at="2023-05-16T11:43:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateBing -->
+      </class> <!-- a2_bingTest.A2_BingTest -->
+    </test> <!--  Bing Test -->
+  </suite> <!--  Sanity Suite -->
+</testng-results>
